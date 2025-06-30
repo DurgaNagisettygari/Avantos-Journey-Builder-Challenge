@@ -4,10 +4,6 @@ This project is a solution for the Avantos coding challenge, which involves reim
 
 **Submitted by:** Durga Dheeraj Nagisettygari (dheerajgandla3@gmail.com)
 
-## Links
-
--   **GitHub Repository:** [Link to your repo]
--   **Screen Recording:** [Link to your video]
 
 ---
 
